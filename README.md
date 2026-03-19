@@ -136,4 +136,4 @@ Ideas for new prompts or improvements to existing ones are welcome. Each prompt 
 
 ## License
 
-This project is open source. Use these prompts however you'd like — on your own farm, with clients, or as a starting point for farm management applications.
+This project is licensed under the [GNU General Public License v3.0](LICENSE). You're free to use, modify, and distribute these prompts, but any derivative work must also be released under GPL v3 and include attribution. This ensures improvements stay open and accessible to the farming community.
